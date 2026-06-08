@@ -7,8 +7,12 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Ursa Major',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/kaeden-bryer/Ursa-Major' }],
 			sidebar: [
+				{
+					label: 'Getting Started',
+					items: [{ autogenerate: { directory: 'getting-started'} }]
+				},
 				{
 					label: 'Guides',
 					items: [
