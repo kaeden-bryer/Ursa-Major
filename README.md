@@ -11,7 +11,7 @@ This is the first year of Ursa Major, so please update this guide as the year pr
 
 If you have any questions, here are the contacts of those who came before you.
 
-| Team | GH 9 Lead | Email | GH 8 Lead | Email
+| Team | Current Lead | Email | Previous Lead | Email
 | --- | --- | --- | --- | --- |
 | Logistics | Michael Medulla | mmedulla@oakland.edu | Sean Collins | scollins2@oakland.edu |
 | Sponsorships | Kaeden Bryer | kaedenbryer@oakland.edu | Bethany Goss | N/A |
