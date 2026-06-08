@@ -1,49 +1,29 @@
-# Starlight Starter Kit: Basics
+# GrizzHacks: Ursa Major
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+Welcome to **Ursa Major**, a guide for future GrizzHacks coordinators! This is created with Astro & Starlight, and contains all the information necessary for a GrizzHacks to succeed. *Don't struggle through everything yourself!* These are notes left behind to help you succeed. Let this be your guiding star. All we ask is that you update this guide for the next generation as you travel.
 
-```
-pnpm create astro@latest -- --template starlight
-```
+This is the first year of Ursa Major, so please update this guide as the year progresses!
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+### Current & Past Team Leads
 
-## 🚀 Project Structure
+If you have any questions, here are the contacts of those who came before you.
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+| Team | GH 9 Lead | Email | GH 8 Lead | Email
+| --- | --- | --- | --- | --- |
+| Logistics | Michael Medulla | mmedulla@oakland.edu | Sean Collins | scollins2@oakland.edu |
+| Sponsorships | Kaeden Bryer | kaedenbryer@oakland.edu | Bethany Goss | N/A |
+| Marketing | Maria Mastronardi | mmastronardi@oakland.edu | Halee Tisler | N/A |
+| Tech | Jay Marquez Febles | jmarquezfebles@oakland.edu | Travis Boyd | ttboyd@oakland.edu |
+| Design | Angel Supetran | asupetran@oakland.edu | N/A | N/A |
+| Treasurer | Devin Meyer | dmeyer2@oakland.edu | Sam Jung | N/A |
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+### Contents
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+This guide will (hopefully) contain...
+- A timeline
+- Recommendations for each team
+- Outline of tasks and deadlines
+- Recommended structure
+- Past problems and how to avoid them
+- Connections built over the years
+- Useful Templates
