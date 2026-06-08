@@ -1,5 +1,8 @@
 # GrizzHacks: Ursa Major
 
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/614cfb6c-5742-4e87-b3d4-76a915742c4d" />
+
+
 Welcome to **Ursa Major**, a guide for future GrizzHacks coordinators! This is created with Astro & Starlight, and contains all the information necessary for a GrizzHacks to succeed. *Don't struggle through everything yourself!* These are notes left behind to help you succeed. Let this be your guiding star. All we ask is that you update this guide for the next generation as you travel.
 
 This is the first year of Ursa Major, so please update this guide as the year progresses!
