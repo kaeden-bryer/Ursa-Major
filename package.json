@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "new": "node scripts/new.js"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.39.3",
