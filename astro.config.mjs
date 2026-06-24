@@ -22,6 +22,42 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Logistics',
+					items: [
+						'logistics/about-logistics'
+					],
+				},
+				{
+					label: 'Sponsorship',
+					items: [
+						'sponsorship/about-sponsorships'
+					],
+				},
+				{
+					label: 'Budgeting',
+					items: [
+						'budgeting/about-budgeting'
+					],
+				},
+				{
+					label: 'Marketing',
+					items: [
+						'marketing/about-marketing'
+					],
+				},
+				{
+					label: 'Design',
+					items: [
+						'design/about-design'
+					],
+				},
+				{
+					label: 'Tech',
+					items: [
+						'tech/about-tech'
+					],
+				},
+				{
 					label: 'Reference',
 					items: [{ autogenerate: { directory: 'reference' } }],
 				},
