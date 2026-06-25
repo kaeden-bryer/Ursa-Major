@@ -30,7 +30,9 @@ export default defineConfig({
 				{
 					label: 'Sponsorship',
 					items: [
-						'sponsorship/about-sponsorships'
+						'sponsorship/about-sponsorships',
+						'sponsorship/warm-leads',
+						'sponsorship/previous-sponsors'
 					],
 				},
 				{
