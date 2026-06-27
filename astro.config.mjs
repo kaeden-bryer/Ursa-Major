@@ -22,6 +22,12 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Eboard',
+					items: [
+						'eboard/eboard-responsibilities'
+					]
+				},
+				{
 					label: 'Logistics',
 					items: [
 						'logistics/about-logistics'
